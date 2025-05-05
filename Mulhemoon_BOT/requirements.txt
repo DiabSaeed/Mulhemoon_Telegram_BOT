@@ -1,0 +1,6 @@
+xhtml2pdf
+markdown
+dotenv
+base64
+io
+pandas
