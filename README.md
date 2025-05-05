@@ -65,5 +65,5 @@ OPENAI_API_KEY=your_openai_key
 
 ## 📫 Contact
 For any questions or suggestions, feel free to reach out at:
-📧 diab.saeed.2020@vet.usc.edu.eg
-📬 Telegram: @Khedawy123
+- 📧 diab.saeed.2020@vet.usc.edu.eg
+- 📬 Telegram: @Khedawy123
