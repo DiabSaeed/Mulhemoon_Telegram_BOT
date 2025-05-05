@@ -61,7 +61,7 @@ OPENAI_API_KEY=your_openai_key
 3. Web dashboard for teachers and students' history
 
 ## 📽️ Testing of this bot
-[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/v5kKhXOvHFo)
+[![Watch the demo](https://youtu.be/v5kKhXOvHFo)](https://youtu.be/v5kKhXOvHFo)
 
 ## 📫 Contact
 For any questions or suggestions, feel free to reach out at:
